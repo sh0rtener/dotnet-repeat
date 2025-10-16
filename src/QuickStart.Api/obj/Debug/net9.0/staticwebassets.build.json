@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zk+MuK4DDoLHpBKVOUjMtxqGgJ3FElVihdY1fTkwW00=",
+  "Source": "QuickStart.Api",
+  "BasePath": "_content/QuickStart.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

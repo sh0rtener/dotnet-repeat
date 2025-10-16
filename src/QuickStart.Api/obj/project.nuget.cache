@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uDaXqN9gTk=",
+  "success": true,
+  "projectFilePath": "/home/sh0rtener/projects/dotnet-repeat/src/QuickStart.Api/QuickStart.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/sh0rtener/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/sh0rtener/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
